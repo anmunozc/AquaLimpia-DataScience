@@ -18,6 +18,8 @@ Proyecto de Ciencia de Datos desarrollado en Google Colab para el análisis oper
 * Ploty
 * Google Colab
 * GitHub
+* SciPy
+* Joblib
 
 **Contenido del repositorio**
 
